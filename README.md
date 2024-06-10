@@ -1,5 +1,8 @@
-### Web RAT v1
+### Progress
 
+50% done
+
+## Information
 
 My biggest project yet, it will be opensource so if you wanna skid go ahead but your still a fucking skid
 
@@ -8,7 +11,9 @@ My biggest project yet, it will be opensource so if you wanna skid go ahead but 
 - It has a very fast reverse shell and a good looking UI
 - Fully Undetected by any server Antivirus
 
+## Policy
 
+- If you want to use this give credit to @skidraper on TG
 
 <p align="center">     
 <!--[mayankchaudhary26 skyline gif]   get yours from here: https://skyline.github.com/    -->
