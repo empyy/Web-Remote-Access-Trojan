@@ -12,5 +12,5 @@ My biggest project yet, it will be opensource so if you wanna skid go ahead but 
 
 <p align="center">     
 <!--[mayankchaudhary26 skyline gif]   get yours from here: https://skyline.github.com/    -->
-<img src="https://media1.tenor.com/m/aBj0fHfyUa4AAAAd/planet-rotating.gif" height="350" width="800">     
+<img src="https://github.com/empyy/Web-Remote-Access-Trojan/blob/main/cthulhu-cthulhu-has-awakened.png" height="350" width="800">     
         
